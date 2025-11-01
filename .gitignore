@@ -1,3 +1,4 @@
 #IGNORE FILE
 .env
 .md
+/logs
